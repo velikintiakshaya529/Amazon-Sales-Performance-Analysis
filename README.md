@@ -302,7 +302,7 @@ Amazon-Sales-Performance-Analysis/
 Add your dashboard screenshot to the `Screenshots` folder and update the filename below if necessary.
 
 ```markdown
-![Amazon Sales Dashboard]("C:\Users\VELIKINTI AKSHAYA\OneDrive\Pictures\Screenshots\Screenshot.png")
+![Amazon Sales Dashboard](Screenshots/Screenshot.png)
 ```
 
 ---
